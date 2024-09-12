@@ -7,7 +7,7 @@ The presentation and materials of the WhatTheStack 2024 workshop:
 
 ## Code of all examples in the workshop
 ### Build it:
-* [generating-jwt](generating-jwt)
+* [generating-jwt](https://github.com/dev-vs-ciso/generating-jwt)
 * [integrating-jwt](https://github.com/dev-vs-ciso/integrating-jwt)
 
 ### Break it:
